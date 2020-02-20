@@ -53,7 +53,7 @@ fi
 if [ $pilih = 2 ]
 then
 clear
-toilet $red "IZ4K412"
+toilet $red "NITAH-SAYANKQ"
 echo "http://africaprop.co.za"
 echo ""
 echo "http://aaglcapetown2013.org.za"
