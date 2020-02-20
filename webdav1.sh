@@ -40,7 +40,7 @@ read -p " PILIHAN=> " pilih
 if [ $pilih = 1 ]
 then
 clear
-toilet "IZ4K412"
+toilet "NITAH-SAYANKQ"
 echo  "Masukin Sc nya lah tod {contoh:index.html}"|lolcat
 read Sc
 echo ""
