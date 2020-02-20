@@ -40,7 +40,7 @@ read -p " PILIHAN=> " pilih
 if [ $pilih = 1 ]
 then
 clear
-toilet "NITAH-SAYANKQ"
+toilet "NITAHSAYANK"
 echo  "Masukin Sc nya lah tod {contoh:index.html}"|lolcat
 read Sc
 echo ""
@@ -53,7 +53,7 @@ fi
 if [ $pilih = 2 ]
 then
 clear
-toilet $red "NITAH-SAYANKQ"
+toilet $red "NITAHSAYANK"
 echo "http://africaprop.co.za"
 echo ""
 echo "http://aaglcapetown2013.org.za"
